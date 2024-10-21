@@ -1,8 +1,8 @@
 # BackOffice Portal (Portal de BackOffice / 后台管理门户)
 
-This is the repository for the XYes BackOffice Portal the instructions for getting it running locally are below.
-Este es el repositorio para el Portal de BackOffice de XYes, las instrucciones para ejecutarlo localmente están a continuación.
-这是 XYes 后台管理门户的存储库，下面是本地运行它的说明。
+This is the repository for the BackOffice Portal the instructions for getting it running locally are below.
+Este es el repositorio para el Portal de BackOffice, las instrucciones para ejecutarlo localmente están a continuación.
+这是 后台管理门户的存储库，下面是本地运行它的说明。
 
 ## Getting Started (Comenzando / 入门)
 
